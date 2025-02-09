@@ -1,1 +1,1 @@
-console.log('configuration');
+console.log('configuration2');
